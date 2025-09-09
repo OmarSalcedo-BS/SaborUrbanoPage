@@ -46,6 +46,14 @@ const menuItems = [{
         popular: false,
         image: 'https://via.placeholder.com/400x300.png?text=Jugo'
     },
+    {
+        id: 7,
+        name: 'Mojito de mango',
+        price: 6000,
+        category: 'cocteles',
+        popular: true,
+        image: 'https://via.placeholder.com/400x300.png?text=Jugo'
+    }
 ];
 
 const menuGrid = document.querySelector('.menu-grid');
