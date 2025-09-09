@@ -36,7 +36,7 @@ const menuItems = [{
         price: 7000,
         category: 'cervezas',
         popular: false,
-        image: 'https://via.placeholder.com/400x300.png?text=Cerveza'
+        image: '../img/clubcolombia.jpg'
     },
     {
         id: 6,
