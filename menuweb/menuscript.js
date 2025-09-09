@@ -52,7 +52,7 @@ const menuItems = [{
         price: 6000,
         category: 'cocteles',
         popular: true,
-        image: 'https://via.placeholder.com/400x300.png?text=Jugo'
+        image: '../img/LogoPrincipal.jpg'
     }
 ];
 
